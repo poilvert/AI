@@ -1,7 +1,7 @@
-**AI** repository
+**AI/ML** repository
 =================
 
-AI related programs, scripts and utilities used by myself for personal exploration
+AI/ML related programs, scripts, and utilities used by myself for personal exploration
 
 Inspiration
 ===========
